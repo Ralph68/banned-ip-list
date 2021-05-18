@@ -1,11 +1,5 @@
-#
 # Stretchoid IP List
-#
-# A firewall blacklist composed of Stretchoid scanners
-#
-# Entries : 0 subnets, 352 unique IPs
-#
-# Report false entries or additional entries as a pull request or issue
+# Please report false entries or additional entries as a pull request or issue
 #
 45.55.0.10
 45.55.0.44
